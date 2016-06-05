@@ -1,0 +1,1 @@
+C:\Users\jeric\Documents\Visual Studio 2015\Projects\CalcX1\CalcX1\CalcX1.csproj;x86
